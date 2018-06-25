@@ -11,8 +11,6 @@ make the file part of your Github repo). The Nginx server is a Docker container 
 instance.
 
 
-5. terraform apply -- den erstellten plan umsetzen.
-
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on an AWS EC2 instance with a Nginx Server which is built in a Docker Container.
