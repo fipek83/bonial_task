@@ -3,10 +3,10 @@ variable "server_port" {
   default = 8080
 }
 variable "AWS_ACCESS_KEY_ID" {
-  default = "AKIAJFHQ5Z5U2AWXMUHQ"
+  default = ""
 }
 variable "AWS_SECRET_ACCESS_KEY" {
-  default = "lxzaZ7upqZZItq0OwN2G6eNFXwadEA/tLg1pZApF"
+  default = ""
 }
 variable "aws_ami" {
   default = "ami-f3143e18"
